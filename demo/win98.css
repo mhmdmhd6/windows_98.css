@@ -49,6 +49,7 @@
   padding: 0;
   height: 14px;
   width: 14px;
+  cursor: url(./cursor/Cursor107.cur), pointer;
 }
 .win98 .menu {
   background: #bfbfbf;
@@ -111,6 +112,7 @@
   border-bottom: 1px solid #dfdfdf;
 }
 .win98 .menu .menu-content .item {
+  cursor: url(./cursor/Cursor107.cur), pointer;
   padding: 10px;
 }
 .win98 .menu .menu-content .item em {
@@ -175,7 +177,7 @@
   text-align: center;
   outline: none;
   padding: 4px;
-  cursor: default;
+  cursor: url(./cursor/Cursor107.cur), pointer;
 }
 .win98 button:enabled {
   color: #070707;
