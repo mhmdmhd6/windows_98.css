@@ -21,6 +21,10 @@
 }
 .win98 .window .content {
   padding: 7px 10px;
+  cursor: url(./cursor/Cursor79.cur), default;
+}
+.win98 .window .content h3{
+  cursor: text;
 }
 .win98 .window .header {
   margin: 2px 2px 0;
